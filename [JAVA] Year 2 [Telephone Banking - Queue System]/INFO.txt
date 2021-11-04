@@ -1,0 +1,3 @@
+Sumbitted for marking January 2021.
+
+A better solution for my queue would've been to use a linked list and tail recursion. I should have also used a hash map to load the user data rather than a vector as there are a lot of searching tasks.
